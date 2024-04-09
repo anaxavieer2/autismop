@@ -1,0 +1,39 @@
+header {
+    background-color: #649fb3;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+
+main {
+    padding: 20px;
+    background-color: rgba(114, 166, 192, 0.659);
+}
+h1 {
+    color: #607176;
+}
+p {
+    line-height: 1.6;
+}
+
+footer {
+    background-image: url("https://lh4.googleusercontent.com/proxy/IJLDLf98kw-9MCnGqz3MduDZWpb4z4Tn2qc2ZoF1BlhriUqYCBRVG88b_9iRTrgBqy8m4EsstNgxAMZt8ZSMXh326hXXlPxMLamrY3alI0DrNiU-6B1eOVHthWOWVewZqoA");
+    height:300px;
+    width: 100%;
+    margin-right: 30px;
+ }
+
+ .fcc-btn {
+    background-color: #79bfe4;
+    color: white;
+    padding: 15px 25px;
+  text-decoration: none;
+  }
+
